@@ -20,3 +20,4 @@
 #### 課程大綱
 
 - [1. Numpy總複習1](https://mirdex.github.io/ML_20220429/1.%20Numpy%20總複習1_Q.slides.html)
+- [2. Numpy總複習2](https://mirdex.github.io/ML_20220429/2.%20Numpy%20總複習2_Q.slides.html)
