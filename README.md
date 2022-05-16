@@ -23,4 +23,4 @@
 - [2. Numpy總複習2](https://mirdex.github.io/ML_20220429/2.%20Numpy%20總複習2_Q.slides.html)
 - [3. Pandas總複習1](https://mirdex.github.io/ML_20220429/3.%20Pandas%20總複習1_Q.slides.html)
 - [4. Pandas總複習2](https://mirdex.github.io/ML_20220429/4.%20Pandas%20總複習2_Q.slides.html)
-- [5. Pandas總複習2](https://mirdex.github.io/ML_20220429/5.%20機器學習與影像識別簡介.slides.html)
+- [5. Introduction to Machine Learning](https://mirdex.github.io/ML_20220429/5.%20機器學習與影像識別簡介.slides.html)
