@@ -26,3 +26,4 @@
 - [5. Introduction to Machine Learning](https://mirdex.github.io/ML_20220429/5.%20機器學習與影像識別簡介.slides.html)
 - [6. Data Process Theory](https://mirdex.github.io/ML_20220429/6.%20Data%20Progress%20Theory_Q.slides.html)
 - [7. Data Process Implement](https://mirdex.github.io/ML_20220429/7.%20Data%20Process%20Implement_Q.slides.html)
+- [8. KNN](https://mirdex.github.io/ML_20220429/8.%20KNN_Q.slides.html)
