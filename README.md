@@ -27,3 +27,4 @@
 - [6. Data Process Theory](https://mirdex.github.io/ML_20220429/6.%20Data%20Progress%20Theory_Q.slides.html)
 - [7. Data Process Implement](https://mirdex.github.io/ML_20220429/7.%20Data%20Process%20Implement_Q.slides.html)
 - [8. KNN](https://mirdex.github.io/ML_20220429/8.%20KNN_Q.slides.html)
+- [9. KNN Advance](https://mirdex.github.io/ML_20220429/9.%20KNN_Advance_Q.slides.html)
