@@ -29,3 +29,4 @@
 - [8. KNN](https://mirdex.github.io/ML_20220429/8.%20KNN_Q.slides.html)
 - [9. KNN Advance](https://mirdex.github.io/ML_20220429/9.%20KNN_Advance_Q.slides.html)
 - [10. Cross Validation](https://mirdex.github.io/ML_20220429/10.%20Cross%20Validation_Q.slides.html)
+- [11. Association Rule](https://mirdex.github.io/ML_20220429/11.%20Association%20Rule.slides.html)
