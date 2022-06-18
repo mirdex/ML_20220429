@@ -17,6 +17,10 @@
 - 理論講述
 - 實務練習
 
+#### 作業與報告最後繳交時間
+
+<font color='red'>報告 - 6/24</font>
+<font color='red'>作業 - 6/27</font>
 #### 課程大綱
 
 - [1. Numpy總複習1](https://mirdex.github.io/ML_20220429/1.%20Numpy%20總複習1_Q.slides.html)
