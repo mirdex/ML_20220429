@@ -35,3 +35,4 @@
 - [10. Cross Validation](https://mirdex.github.io/ML_20220429/10.%20Cross%20Validation_Q.slides.html)
 - [11. Association Rule](https://mirdex.github.io/ML_20220429/11.%20Association%20Rule.slides.html)
 - [12. Sequential Pattern](https://mirdex.github.io/ML_20220429/12.%20Sequential%20Pattern_Q.slides.html)
+- [13. Cluster](https://mirdex.github.io/ML_20220429/13.%20Cluster_Q.slides.html)
