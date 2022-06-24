@@ -19,8 +19,8 @@
 
 #### 作業與報告最後繳交時間
 
-<font color="#dd0000">報告 - 6/24</font><br/>
-<font color="#dd0000">作業 - 6/27</font>
+<font color="#dd0000">報告 - 6/27</font><br/>
+<font color="#dd0000">作業 - 6/29</font>
 #### 課程大綱
 
 - [1. Numpy總複習1](https://mirdex.github.io/ML_20220429/1.%20Numpy%20總複習1_Q.slides.html)
@@ -36,3 +36,4 @@
 - [11. Association Rule](https://mirdex.github.io/ML_20220429/11.%20Association%20Rule.slides.html)
 - [12. Sequential Pattern](https://mirdex.github.io/ML_20220429/12.%20Sequential%20Pattern_Q.slides.html)
 - [13. Cluster](https://mirdex.github.io/ML_20220429/13.%20Cluster_Q.slides.html)
+- [14. Navie Bayes Classification](https://mirdex.github.io/ML_20220429/14.%20Naive%20Bayes%20Classification_Q.slides.html)
