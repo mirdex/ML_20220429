@@ -38,3 +38,4 @@
 - [13. Cluster](https://mirdex.github.io/ML_20220429/13.%20Cluster_Q.slides.html)
 - [14. Navie Bayes Classification](https://mirdex.github.io/ML_20220429/14.%20Naive%20Bayes%20Classification_Q.slides.html)
 - [15. Regression](https://mirdex.github.io/ML_20220429/16.%20Regression_Q_1.slides.html)
+- [16. Image recognition](https://mirdex.github.io/ML_20220429/17.%20初探影像識別_Q.slides.html)
